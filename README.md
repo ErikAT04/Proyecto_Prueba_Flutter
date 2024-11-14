@@ -1,3 +1,3 @@
-# proyectoapp
+# Proyecto de Prueba de Flutter
 
-A new Flutter project.
+Proyecto que utiliza un poco de todo lo dado en clase
